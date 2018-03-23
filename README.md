@@ -81,7 +81,7 @@ PS：如果出现 错误提示 “Unable to open connection to raspberrypi.local
 
     安装方法：
     
-        1.保持树莓派与电脑的连接，打开 Windows 的“设备管理”中找到“RNDIS/Ethernet Gadget”, 右键选择“更新驱动程序”。
+        1.保持树莓派与电脑的连接，打开 Windows 的 设备管理 中找到 RNDIS/Ethernet Gadget , 右键选择 更新驱动程序 。
         
         2.选择 流量计算机以查找驱动软件-从计算机的设备驱动程序列表中选择
         
