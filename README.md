@@ -54,7 +54,7 @@ network={
 4.输入默认用户密码（Raspbian默认的用户名密码是pi/raspberry）
 
 
-## RaspberryPI + Qplug USB连接以太网
+## RaspberryPI Zero W + Qplug USB连接以太网
 1.下载raspbian-jessie版本镜像（需2016.10之后的版本）
 
 2.安装系统
