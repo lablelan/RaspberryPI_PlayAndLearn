@@ -79,16 +79,13 @@ modules-load=dwc2,g_ether
 
 PS：如果出现 错误提示 “Unable to open connection to raspberrypi.local. Host does not exist”，那么需要安装RNDIS驱动
 
-    安装方法：
-    ```javascript
-        1.保持树莓派与电脑的连接，打开 Windows 的 设备管理 中找到 RNDIS/Ethernet Gadget , 右键选择 更新驱动程序 。
-        
-        2.选择 流量计算机以查找驱动软件-从计算机的设备驱动程序列表中选择
-        
-        3.找到网络适配器
-        
-        4.找到Microsoft Corporation 选择 Remote NDIS Compatible Device 安装驱动
-    ```
+```javascript 
+安装方法：
+    1.保持树莓派与电脑的连接，打开 Windows 的 设备管理 中找到 RNDIS/Ethernet Gadget , 右键选择 更新驱动程序 。
+    2.选择 流量计算机以查找驱动软件-从计算机的设备驱动程序列表中选择
+    3.找到网络适配器  
+    4.找到Microsoft Corporation 选择 Remote NDIS Compatible Device 安装驱动
+```
     
     
 
