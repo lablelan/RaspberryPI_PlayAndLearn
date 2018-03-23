@@ -78,10 +78,15 @@ modules-load=dwc2,g_ether
 8.设置共享互联网连接。打开 控制面板-网络和Internet-网络连接 ，找到RNDIS/Ethernet Gadget” 的设备类型，右键属性-共享 下拉菜单中找到树莓派的连接名称
 
 PS：如果出现 错误提示 “Unable to open connection to raspberrypi.local. Host does not exist”，那么需要安装RNDIS驱动
+
     安装方法：
+    
         1.保持树莓派与电脑的连接，打开 Windows 的“设备管理”中找到“RNDIS/Ethernet Gadget”, 右键选择“更新驱动程序”。
+        
         2.选择 流量计算机以查找驱动软件-从计算机的设备驱动程序列表中选择
+        
         3.找到网络适配器
+        
         4.找到Microsoft Corporation 选择 Remote NDIS Compatible Device 安装驱动
 
 
